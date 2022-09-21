@@ -22,7 +22,8 @@ For the case of ({1,1}), allows the setting of the alarm time. Again, it uses th
 <p align="center">
 <a href="https://youtu.be/aF9W5K1BQpI" target="_blank"><img src="https://i.ytimg.com/vi/aF9W5K1BQpI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAaYTBxE9j4vk9KxJDv8dNstsSFqw" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-  Click on image for Video!
 </p>
-
+<p align="center">
+  Click on image for video!
+</p>
 
