@@ -10,6 +10,14 @@ At least 4 functions are running concurrently. We needed to define 7 cases for s
 
 At the same time, a 2-1 multiplexor was used for toggling the speed at which the cases should be transiting at, from one case to the next, and each case is incremented by 1 on the rising edge of the clock. This clock is fed back into the sensitivity list for all other functions.
 
+<p align="center">
+<a href="https://youtu.be/aF9W5K1BQpI](https://www.youtube.com/shorts/ogYTmwVnWnc" target="_blank"><img src="https://i.ytimg.com/vi/ogYTmwVnWnc/default.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+</p>
+<p align="center">
+  Click on image for video!
+</p>
+
 # Digital Clock with Knight Rider Alarm
 
 We followed current implementations of real-life digital clocks. Using the seven segment display, we have the case of {switch[0], switch[1]} that allows the toggling between 2 arrangements of time: hh:mm ({0.0}) and mm:ss ({0,1}). 
