@@ -19,8 +19,9 @@ Using ({switch[0], switch[1]}), we also have the case of ({1,0}) to allow the se
 For the case of ({1,1}), allows the setting of the alarm time. Again, it uses the same process as seen in the case for ({1,0}), just without the enter button. Once the real time clock as shown in case ({0,0}) is the same as the alarm time set, a knight rider display using 2 leds to flow horizontally to and fro is shown as the alarm indicator, lasting for 10 seconds before turning off.
 
 # Click on image for Video!
-<a align="center" href="https://youtu.be/aF9W5K1BQpI" target="_blank"><img src="https://i.ytimg.com/vi/aF9W5K1BQpI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAaYTBxE9j4vk9KxJDv8dNstsSFqw" 
+<p align="center">
+<a href="https://youtu.be/aF9W5K1BQpI" target="_blank"><img src="https://i.ytimg.com/vi/aF9W5K1BQpI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAaYTBxE9j4vk9KxJDv8dNstsSFqw" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>  
-
+</p>
 
 
