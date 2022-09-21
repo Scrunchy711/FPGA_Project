@@ -17,3 +17,7 @@ We followed current implementations of real-life digital clocks. Using the seven
 Using ({switch[0], switch[1]}), we also have the case of ({1,0}) to allow the setting of the clock to follow the current time. The push buttons have been debounced, with the btn_right allowing horizontal scroll between the tenth hour digits, the ones hour digits, the tenth minute digits and the ones minute digits. The flashing of the seven-segment display also indicates to the user the current position of digits in which he is adjusting. Note also that logic has been implemented that allows users to set time only between 0000 to 2359. The btn_up allows for vertical scrolling, 0->2 for tens hour digits, 0->3 for ones hour digits, 0->5 for tens minute digits and 0->9 for ones minute digits. Pressing the btn_enter confirms the input and returning to case ({0,0}) and ({0,1}) shows the real time being set and in increment accordingly. 
 
 For the case of ({1,1}), allows the setting of the alarm time. Again, it uses the same process as seen in the case for ({1,0}), just without the enter button. Once the real time clock as shown in case ({0,0}) is the same as the alarm time set, a knight rider display using 2 leds to flow horizontally to and fro is shown as the alarm indicator, lasting for 10 seconds before turning off. 
+
+<a href="https://youtu.be/aF9W5K1BQpI" target="_blank"><img src="http://img.youtu.be/aF9W5K1BQpI/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
